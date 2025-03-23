@@ -14,7 +14,7 @@ This scraper scrapes https://remoteok.com using **Selenium**. It performs the fo
 Clone this repository:
 
 ```sh
-$ git clone git@github.com:Raksha-Karn/Remote-Ok-Scraper.git
+$ git clone https://github.com/Raksha-Karn/Remote-Ok-Scraper.git
 ```
 
 Install the dependencies:
